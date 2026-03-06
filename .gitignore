@@ -1,0 +1,6 @@
+.env
+node_modules
+venv
+mp_env
+backend/mp_env
+start_app.bat
